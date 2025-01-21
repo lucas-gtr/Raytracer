@@ -1,4 +1,4 @@
-# Ray Tracing Rendering Engine
+# Custom Ray Tracing Rendering Engine
 
 This project implements a basic ray tracing algorithm to render a 3D scene. The engine supports reflection, refraction, shadows, and multiple light sources. It uses a simple ray-object intersection test to calculate pixel colors and outputs the result in a PPM image format.
 
