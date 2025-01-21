@@ -2,6 +2,8 @@
 
 This project implements a basic ray tracing algorithm to render a 3D scene. The engine supports reflection, refraction, shadows, and multiple light sources. It uses a simple ray-object intersection test to calculate pixel colors and outputs the result in a PPM image format.
 
+![Rendered image example](example.png)
+
 ## Features
 
 - **Ray Tracing**: Calculates the color of each pixel by casting rays through a 3D scene.
